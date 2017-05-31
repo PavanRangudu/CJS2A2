@@ -1,8 +1,8 @@
 
-public class CJS2A3_print_char_pyramid {
+public class CJS2A2_print_char_pyramid {
 	public static void main (String s[]){
 		
-		char center_char = 's'; // Just set this center_char to any lowercase char and see the pattern.
+		char center_char = 'e'; // Just set this center_char to any lowercase char and see the pattern.
 		
 		char start = 'a'; int spaces = center_char - (int) 'a';
 		
